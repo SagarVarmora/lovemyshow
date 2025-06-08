@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344274301648",
+    "project_id": "lovemyshow-dd252",
+    "storage_bucket": "lovemyshow-dd252.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344274301648:android:511fdb1c92bab38f2aa4d5",
+        "android_client_info": {
+          "package_name": "com.sagar.lovemyshow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3KQCMzaV1gr1ez8qK_Ug4meuW2u0KM3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
